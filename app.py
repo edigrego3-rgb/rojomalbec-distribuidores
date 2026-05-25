@@ -64,8 +64,56 @@ st.markdown("""
         flex-grow: 1;
         margin-bottom: 15px;
     }
+    .stTabs [data-baseweb="tab"] {
+        color: white;
+    }
     </style>
     """, unsafe_allow_html=True)
+
+# --- FUNCIONES AUXILIARES ---
+def detectar_categoria(nombre_producto):
+    nombre = str(nombre_producto).lower()
+    if "sal " in nombre or nombre.startswith("sal"):
+        return "🧂 Sales"
+    elif "vital" in nombre:
+        return "💚 Vital"
+    elif "blend" in nombre or "bbq" in nombre or "curry" in nombre or "baharat" in nombre or "masala" in nombre or "joe" in nombre or "ranch" in nombre or "pesto" in nombre or "jerk" in nombre:
+        return "🌿 Blends"
+    elif "té " in nombre or "te " in nombre or "rooibos" in nombre or "karak" in nombre:
+        return "🍵 Tés"
+    elif "mocktail" in nombre:
+        return "🍹 Mocktails"
+    elif "pimienta" in nombre:
+        return "🌶️ Pimientas"
+    else:
+        return "🌿 Blends" # Por defecto los mandamos a blends
+
+def buscar_imagen(nombre_producto):
+    images_dir = os.path.join(current_dir, "images")
+    if not os.path.exists(images_dir):
+        return None
+        
+    term = nombre_producto.replace(" ", "").lower()
+    # Casos especiales de nombres que no coinciden exacto
+    if "sloopy joe" in nombre_producto.lower(): term = "sloppyjoe"
+    
+    archivos_encontrados = []
+    for f in os.listdir(images_dir):
+        if f.endswith(".png"):
+            if term in f.replace("_", "").lower():
+                archivos_encontrados.append(f)
+                
+    if not archivos_encontrados:
+        return None
+        
+    # Priorizar la foto frontal (que suele decir "Clean", "Frontal" o "Color")
+    for f in archivos_encontrados:
+        nombre_lower = f.lower()
+        if "clean" in nombre_lower or "frontal" in nombre_lower or "color" in nombre_lower:
+            return os.path.join(images_dir, f)
+            
+    # Si no hay frontal, devolvemos la primera que haya encontrado (ej: Trasera)
+    return os.path.join(images_dir, archivos_encontrados[0])
 
 # --- ESTADO DEL CARRITO ---
 if "carrito" not in st.session_state:
@@ -87,6 +135,8 @@ with st.spinner("Actualizando catálogo y precios..."):
 if df_catalogo.empty:
     st.error("No se pudo cargar el catálogo. Por favor contacte a administración.")
     st.stop()
+
+df_catalogo["Categoria"] = df_catalogo["Nombre"].apply(detectar_categoria)
 
 # --- SIDEBAR: CARRITO Y CHECKOUT ---
 st.sidebar.title("🛒 Tu Pedido")
@@ -150,59 +200,81 @@ else:
                     st.rerun()
 
 # --- CATÁLOGO DE PRODUCTOS ---
-st.subheader("Catálogo de Productos")
 search = st.text_input("🔍 Buscar blend...")
 
-if search:
-    df_catalogo = df_catalogo[df_catalogo["Nombre"].str.contains(search, case=False)]
+# Pestañas de categorías
+categorias = ["🏠 Todos", "🧂 Sales", "🌿 Blends", "💚 Vital", "🍵 Tés", "🍹 Mocktails", "🌶️ Pimientas"]
+tabs = st.tabs(categorias)
 
-# Mostrar en grilla de 3 columnas
-cols = st.columns(3)
-for idx, row in df_catalogo.iterrows():
-    nombre = row["Nombre"]
-    costo_real = float(row["Precio_Mayorista"])
-    pvp_real = float(row["Precio_Venta"])
-    
-    # Redondeo pedido
-    costo_redondeado = redondear_precio(costo_real)
-    pvp_redondeado = redondear_precio(pvp_real)
-    ganancia_neta = pvp_redondeado - costo_redondeado
-    
-    desc_path = os.path.join(current_dir, "Descripciones_RojoMalbec.md")
-    descripcion = extraer_descripcion(nombre, desc_path)
-    
-    col_idx = idx % 3
-    with cols[col_idx]:
-        st.markdown(f"""
-        <div class='product-card'>
-            <h3 style='margin-top:0;'>{nombre}</h3>
-            <p style='margin-bottom:5px;'><b>Costo Compra:</b> $ {costo_redondeado:,}</p>
-            <p style='margin-bottom:0;'><b>Precio Sugerido:</b> $ {pvp_redondeado:,}</p>
-            <div class='profit-badge'>Ganancia Neta: $ {ganancia_neta:,}</div>
-            <div class='desc-text'>{descripcion}</div>
-        </div>
-        """, unsafe_allow_html=True)
+for i, tab in enumerate(tabs):
+    with tab:
+        cat_actual = categorias[i]
         
-        # Controles
-        c1, c2, c3 = st.columns([1, 1, 1])
-        
-        qty_actual = st.session_state.carrito.get(nombre, {}).get("cantidad", 0)
-        
-        with c1:
-            if st.button("➖", key=f"minus_{nombre}", use_container_width=True):
-                if qty_actual > 0:
-                    st.session_state.carrito[nombre]['cantidad'] -= 1
-                    if st.session_state.carrito[nombre]['cantidad'] == 0:
-                        del st.session_state.carrito[nombre]
-                    st.rerun()
-        with c2:
-            st.markdown(f"<div style='text-align:center; padding-top:5px; font-weight:bold;'>{qty_actual}</div>", unsafe_allow_html=True)
-        with c3:
-            if st.button("➕", key=f"plus_{nombre}", use_container_width=True):
-                if nombre not in st.session_state.carrito:
-                    st.session_state.carrito[nombre] = {"cantidad": 1, "precio": costo_redondeado}
-                else:
-                    st.session_state.carrito[nombre]['cantidad'] += 1
-                st.rerun()
-        
-        st.write("") # Espaciador
+        # Filtrar datos
+        df_tab = df_catalogo.copy()
+        if cat_actual != "🏠 Todos":
+            df_tab = df_tab[df_tab["Categoria"] == cat_actual]
+            
+        if search:
+            df_tab = df_tab[df_tab["Nombre"].str.contains(search, case=False)]
+            
+        if df_tab.empty:
+            st.info("No hay productos en esta categoría.")
+            continue
+            
+        # Mostrar en grilla de 3 columnas
+        cols = st.columns(3)
+        for idx, row in df_tab.reset_index(drop=True).iterrows():
+            nombre = row["Nombre"]
+            costo_real = float(row["Precio_Mayorista"])
+            pvp_real = float(row["Precio_Venta"])
+            
+            # Redondeo pedido
+            costo_redondeado = redondear_precio(costo_real)
+            pvp_redondeado = redondear_precio(pvp_real)
+            ganancia_neta = pvp_redondeado - costo_redondeado
+            
+            desc_path = os.path.join(current_dir, "Descripciones_RojoMalbec.md")
+            descripcion = extraer_descripcion(nombre, desc_path)
+            
+            imagen_path = buscar_imagen(nombre)
+            
+            col_idx = idx % 3
+            with cols[col_idx]:
+                st.markdown("<div class='product-card'>", unsafe_allow_html=True)
+                
+                # Imagen
+                if imagen_path:
+                    st.image(imagen_path, use_container_width=True)
+                
+                # Info
+                st.markdown(f"""
+                    <h3 style='margin-top:10px;'>{nombre}</h3>
+                    <p style='margin-bottom:5px;'><b>Costo Compra:</b> $ {costo_redondeado:,}</p>
+                    <p style='margin-bottom:0;'><b>Precio Sugerido:</b> $ {pvp_redondeado:,}</p>
+                    <div class='profit-badge'>Ganancia Neta: $ {ganancia_neta:,}</div>
+                    <div class='desc-text'>{descripcion}</div>
+                """, unsafe_allow_html=True)
+                
+                # Controles de Carrito
+                c1, c2, c3 = st.columns([1, 1, 1])
+                qty_actual = st.session_state.carrito.get(nombre, {}).get("cantidad", 0)
+                
+                with c1:
+                    if st.button("➖", key=f"minus_{cat_actual}_{idx}", use_container_width=True):
+                        if qty_actual > 0:
+                            st.session_state.carrito[nombre]['cantidad'] -= 1
+                            if st.session_state.carrito[nombre]['cantidad'] == 0:
+                                del st.session_state.carrito[nombre]
+                            st.rerun()
+                with c2:
+                    st.markdown(f"<div style='text-align:center; padding-top:5px; font-weight:bold;'>{qty_actual}</div>", unsafe_allow_html=True)
+                with c3:
+                    if st.button("➕", key=f"plus_{cat_actual}_{idx}", use_container_width=True):
+                        if nombre not in st.session_state.carrito:
+                            st.session_state.carrito[nombre] = {"cantidad": 1, "precio": costo_redondeado}
+                        else:
+                            st.session_state.carrito[nombre]['cantidad'] += 1
+                        st.rerun()
+                        
+                st.markdown("</div>", unsafe_allow_html=True)
