@@ -915,3 +915,35 @@ Sugerencias: Ideal para preparar el tradicional vino caliente (¡un buen Malbec 
 Tip del blender: Calentar el vino con el blend a fuego muy lento (idealmente a 70°C) y apagar antes de que rompa el hervor. Dejar reposar 15 minutos. Si hierve, el alcohol se evapora y las especias pueden amargar la bebida. Paras tus Peras al Vino agrega azucar al vinoa tu gusto.
 
 📦 Envase 50g · Hecho a mano · Producto artesanal · Traslasierra 🌐 rojomalbec.com.ar
+
+---
+
+## Mole Mexicano 🍫
+
+🍫 MOLE MEXICANO — Blend Aromático con Cacao · Edición Blends de Autor · Rojo Malbec
+
+Un homenaje a la cocina prehispánica. Este blend es una obra de alquimia pura que fusiona el calor ahumado de los chiles secos, la profundidad oscura del cacao, especias cálidas como canela y clavo, y un toque terroso de semillas tostadas.
+
+El resultado: un perfil oscuro, aterciopelado y de picor amable. Un equilibrio absoluto y complejo entre lo salado, lo dulce, lo especiado y lo ahumado.
+
+Sugerencias: Clásico sobre pollo asado o guisos de cerdo. Increíble para tacos, fajitas, enchiladas , arroces intensos, o como base para salsas espesas de cocción lenta.
+
+Tip del blender: Hidratar el polvo en un poco de caldo caliente (de ave o vegetales) durante unos minutos antes de sumarlo a la olla. Esto "despierta" los aceites esenciales del cacao y los chiles.
+
+📦 Envase 50g · Hecho a mano · Producto artesanal · Traslasierra 🌐 rojomalbec.com.ar
+
+---
+
+## España Profunda 🥘
+
+🥘 ESPAÑA PROFUNDA — Blend para Arroces · Edición Blends de Autor · Rojo Malbec
+
+Capturá el secreto de los maestros arroceros españoles. Un blend de molienda ultra-fina con  la nobleza pura del azafrán y el dulzor del pimientón español.
+
+El resultado: el sabor y el color inconfundible de la cocina tradicional Española. Un perfil aromático profundo que eleva cualquier preparación sin invadir.
+
+Sugerencias: Paellas, arroces caldosos, cazuelas de mariscos. Como "rub" (frotado) sobre filetes de pesca blanca o pechugas de pollo antes de cocinar a la plancha.
+
+Tip del blender: Disolver 15 g (una cucharada) en el caldo caliente antes de volcarlo a la paellera. Esto asegura la "activación térmica" y una distribución perfecta del sabor.
+
+📦 Envase 50g · Hecho a mano · Producto artesanal · Traslasierra 🌐 rojomalbec.com.ar
