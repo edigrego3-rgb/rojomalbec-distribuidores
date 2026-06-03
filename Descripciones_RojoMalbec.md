@@ -11,6 +11,32 @@
 
 ## Sal al Malbec 🍷
 
+🔥 Sal Marina al Malbec | La Sangre de la Tierra en tu Asado
+
+Esta es nuestra razón de ser. No es solo sal, es la fusión de dos pasiones: el fuego y el vino. Es llevar el viñedo y la montaña directamente a tu tabla.
+
+🍇 Origen y Color Natural
+
+Olvidate de los colorantes. Estos cristales de sal marina patagónica han sido infusionados lentamente en auténtico vino Malbec mendocino.
+
+El resultado es ese color rubí intenso y vibrante que ves en la foto, y un aroma sutil a frutos rojos y madera que se despierta con el calor.
+
+🥩 El Maridaje Perfecto para Carnes Rojas
+
+Fue diseñada pensando en el fuego:
+
+Sal de Terminación: Espolvoreala sobre un Ojo de Bife, Entraña o Vacío justo antes de servir. El contraste del cristal rojo sobre la carne dorada es espectacular.
+
+Textura y Sabor: Aportan una crocancia única y una complejidad de sabor que realza la carne sin invadirla.
+
+🍷 La Experiencia Completa
+
+No hay mejor compañía que una copa de tu Malbec favorito y las brasas ardiendo.
+
+No es para cualquier asado. Es para cuando querés lucirte. Pedí tu lata y dale el toque maestro a tu próxima carne.
+
+📦 Envase 100g · Hecho a mano · Producto artesanal · Traslasierra 🌐 rojomalbec.com.ar
+
 Nacida en los viñedos de altura de la Traslasierra cordobesa, esta sal rinde homenaje al sol de los Andes y la sangre de la tierra. Los cristales puros de sal marina se infunden con reducción de Malbec hasta saturar completamente cada cristal, preservando el brillo del antociano mediante secado solar natural.
 
 **Ingredientes:** Sal marina, harina de vino Malbec
@@ -22,6 +48,32 @@ Nacida en los viñedos de altura de la Traslasierra cordobesa, esta sal rinde ho
 ---
 
 ## Sal British 🇬🇧
+
+🍺 Sal Marina Tipo British | La Experiencia del Pub en tu Casa
+
+Si alguna vez probaste esas papas fritas adictivas con el toque justo de vinagre y sal, sabés de qué hablamos. Pero esta no es una sal común: es una versión de autor que captura la esencia de la malta y el lúpulo.
+
+🇬🇧 El Secreto del Sabor
+
+Olvidate de los saborizantes artificiales. Nuestra Sal British pasa por un complejo proceso artesanal de doble impregnación donde los cristales de sal marina absorben notas profundas de cerveza negra, la acidez justa del vinagre y un blend secreto de hierbas y especias.
+
+El resultado es un cristal de color ámbar, crujiente y con un perfil de sabor que no vas a encontrar en ningún otro lado.
+
+🍟 ¿En qué usarla? (Va con todo)
+
+Es el toque final que transforma lo simple en algo gourmet:
+
+Papas: Fritas, al horno, rústicas o en puré. El calor despierta el aroma a malta al instante.
+
+Snacks: Probá espolvorear un poco sobre pochoclos (palomitas) o nachos. Es un viaje de ida.
+
+Frituras de Mar: Rabas, cornalitos o el clásico Fish & Chips. La acidez corta la grasa y levanta el sabor.
+
+🍻 El Maridaje Ideal
+
+Está diseñada para acompañar tu cerveza favorita. Una pinta fría, una buena picada y el toque mágico de Rojo Malbec.
+
+📦 Envase 100g · Hecho a mano · Producto artesanal · Traslasierra 🌐 rojomalbec.com.ar
 
 Una sal avinagrada al mejor estilo británico, heredera de la tradición del "Salt and Vinegar". Cristales de sal marina infusionados en vinagre blanco y secados lentamente al sol, capturando la acidez característica que define el paladar inglés. Una oda a la tradición de los fish & chips y los sabores de la costa de Essex.
 
@@ -47,6 +99,20 @@ El humo es el lenguaje más antiguo de la humanidad. Este blend es un puente hac
 
 ## Sal de Limón y Chile (Suave) 🍋🌶️
 
+🍋 SAL MARINA CON LIMÓN & CHILE — Sal Saborizada de Autor · Edición Sales Gourmet · Rojo Malbec
+
+La chispa exacta que le faltaba a tus platos. Un blend vibrante donde la pureza crujiente de la sal marina se combina con la frescura ácida de la cáscara de limón deshidratada y el golpe de calor justo del chile triturado.
+
+⚠️ NO ES PICANTE. El chile está tratado para aportar solo sabor y color, sin generar ardor. Es apta para todo público.
+
+El resultado: un perfil estimulante y adictivo. El cítrico despierta inmediatamente el paladar, mientras que el calor sutil del chile prolonga el sabor. Fresco, picante y salado en un solo grano.
+
+Sugerencias: Ideal para pescados a la parrilla, mariscos, pollo asado, paltas, ensaladas frescas, o incluso para hacer el clásico "escarchado" (borde de sal) en las copas de coctelería y Margaritas.
+
+Tip del blender: Usala tambien como "sal de acabado" (finish salt) al momento de servir en la mesa. Si la usás durante la cocción de la olla, el limón puede perder su golpe aromático fresco.
+
+📦 Envase 100g · Hecho a mano · Producto artesanal · Traslasierra 🌐 rojomalbec.com.ar
+
 Un encuentro entre la frescura cítrica de los limonares del noroeste argentino y el fuego controlado de los ajíes americanos. Inspirada en los sabores de las rutas comerciales del Nuevo Mundo.
 
 **Ingredientes:** Sal marina, cáscara de limón deshidratada, ají, pimentón español dulce, tomate deshidratado, achiote
@@ -58,6 +124,30 @@ Un encuentro entre la frescura cítrica de los limonares del noroeste argentino 
 ---
 
 ## Sal de Rosas y Romero 🌹
+
+🌹 Sal de Pétalos de Rosas y Romero – Edición Alquimia
+
+El perfume en un cristal de sal. En Rojo Malbec no solo creamos condimentos, diseñamos experiencias sensoriales. Nuestra Sal de Rosas y Romero es el equilibrio perfecto entre la fuerza silvestre del monte y la elegancia sutil del jardín.
+
+El Aroma: El romero aporta notas amaderadas y frescas.
+
+La Textura: Pétalos de rosa deshidratados que se funden con los cristales de sal, aportando un matiz floral único.
+
+El Color: Un espectáculo visual de tonos rosados y verdes secos que elevan cualquier presentación.
+
+🍴 ¿Cómo usarla en tu cocina?
+
+Esta es una sal de finalización. El toque final que transforma un plato común en una obra de autor:
+
+Ensaladas Gourmet: Elevá una mezcla de rúcula, queso de cabra y nueces.
+
+Panadería Artesanal: Espolvoreala sobre una focaccia recién salida del horno.
+
+Carnes Blancas: Perfecta para pescados a la plancha o pollos al limón.
+
+El Secreto del Chef: Probala sobre un trozo de chocolate amargo o una ganache de chocolate. El contraste te va a volar la cabeza.
+
+📦 Envase 100g · Hecho a mano · Producto artesanal · Traslasierra 🌐 rojomalbec.com.ar
 
 Desde los jardines amurallados de la Persia medieval hasta las colinas de la Toscana. Las rosas, símbolo del amor divino, y el romero, planta de la memoria según los griegos, se unen en una alquimia floral.
 
@@ -71,6 +161,30 @@ Desde los jardines amurallados de la Persia medieval hasta las colinas de la Tos
 
 ## Sal del Desierto 🏜️
 
+🏜️ Sal del Desierto | Blend Exótico & Ahumado
+
+¿A qué sabe una tormenta de arena y especias? Este no es un salado común. Es un blend de terminación (finishing salt) inspirado en los aromas de Medio Oriente, diseñado para aportar complejidad, acidez y un toque ahumado a tus platos.
+
+✨ El Secreto del Blend: Combinamos la textura crujiente de la Sal Marina con tres joyas de la cocina antigua:
+
+🔴 Sumac: Aporta una acidez cítrica y frutal (sin ser limón).
+
+🔥 Cardamomo Negro: Notas profundas de humo, alcanfor y resina.
+
+🌶️ Pimienta Larga: Un picor dulce y complejo, muy diferente a la pimienta negra.
+
+🍽️ Usalo para elevar:
+
+Carnes: Ideal para Cordero, Bondiola de cerdo o Carnes de caza.
+
+Fuego: Berenjenas asadas, Calabazas al rescoldo o Vegetales grillados.
+
+Toque Gourmet: Espolvorealo sobre Hummus, Babaganoush o incluso en el borde de un trago (Michelada/Bloody Mary).
+
+👨‍🍳 Tip de Chef: Usala al final de la cocción, justo antes de servir. La acidez del Sumac corta la grasa y limpia el paladar, mientras que el Cardamomo Negro deja un retrogusto ahumado inolvidable.
+
+📦 Envase 100g · Hecho a mano · Producto artesanal · Traslasierra 🌐 rojomalbec.com.ar
+
 El Sumac y el Cardamomo evocan las dunas de la Ruta de la Seda. Esta mezcla porta el calor de las caravanas que cruzaban el Sahara y el desierto de Arabia, llevando tesoros aromáticos para intercambiar por oro y seda.
 
 **Ingredientes:** Sal marina, sumac, pimienta larga, cardamomo negro
@@ -83,6 +197,26 @@ El Sumac y el Cardamomo evocan las dunas de la Ruta de la Seda. Esta mezcla port
 
 ## Sal Negra Tipo Hawaiana 🖤
 
+🧂Sal Negra Tipo Hawaiana – La alquimia de Rojo Malbec
+
+Hay productos que se ven bien, y hay productos que cambian las reglas del juego. Nuestra nueva Sal Negra es el equilibrio perfecto entre estética volcánica y un perfil de sabor que no vas a encontrar en ninguna otra parte del país.
+
+🌑 El Secreto del Color: Cristales de sal marina de máxima pureza, tratados artesanalmente con carbón activado y nuestra harina de vino para lograr ese negro mineral profundo que ves en la foto.
+
+✨ La Estrella Exclusiva: Pimienta Larga. No es una pimienta cualquiera. Traemos a las sierras esta especia milenaria, casi inexistente en el mercado argentino. Su forma de espiga y su aroma complejo —que recuerda a la canela, la nuez moscada y el calor del bosque— es lo que realmente le da alma a este blend. Se huele antes de probarla y se siente en el retrogusto, elevando el plato a otra categoría.
+
+🍳 ¿Cómo usarla? Es una sal de finalización. Dejala caer con los dedos (o con pinza, como un profesional) sobre:
+
+Un huevo poché (mirá ese contraste de la yema con el negro absoluto).
+
+Un carpaccio de salmón o lomo.
+
+Una palta con buen aceite de oliva.
+
+Carnes blancas o mariscos que busquen un perfil exótico y elegante.
+
+📦 Envase 100g · Hecho a mano · Producto artesanal · Traslasierra 🌐 rojomalbec.com.ar
+
 El carbón activado evoca las tierras volcánicas del Pacífico. Una sal que imita la lava negra que se enfría en contacto con el océano, utilizada para purificar y dar fuerza a los guerreros polinesios.
 
 **Ingredientes:** Sal marina, pimienta larga, carbón activado, harina de vino
@@ -94,6 +228,34 @@ El carbón activado evoca las tierras volcánicas del Pacífico. Una sal que imi
 ---
 
 ## Sal Esvanetian (Georgia) 🏔️
+
+🏔️ Sal Svanetian | Sazonador Ancestral
+
+¿Salaste o condimentaste?
+
+Esta no es una sal para decorar. Es una herramienta de cocina. Una mezcla robusta y seca, donde el ajo y las especias ya están curados dentro del cristal, lista para soportar altas temperaturas y transmitir sabor profundo desde el inicio de la cocción.
+
+✨ El Secreto: Potencia Integrada
+
+Al estar madurada, esta Sal Marina no se quema ni pierde fuerza. Funciona como un fondo de cocción sólido:
+
+Ajo Curado: Aporta un sabor redondo y dulce, sin la agresividad del ajo crudo.
+
+Especias de Montaña: Liberan sus aceites al entrar en contacto con el calor o los jugos de la carne.
+
+🍽️ Usalo para cocinar:
+
+Adobos & Rubs: Frotala en carnes rojas, cerdos o pollos antes de que toquen el fuego. La sal penetra y sazona la fibra desde adentro.
+
+Guisos y Estofados: Usala en el sofrito base. Levanta el sabor de todo lo que agregues después.
+
+Masas: Integrala en la masa de un pan de campo o una focaccia para un sabor rústico en cada bocado.
+
+👨‍🍳 Tip de Chef:
+
+Trátala como un ingrediente más, no solo como sal. Si vas a hacer un pollo al horno, mézclala con un poco de aceite y pinta la pieza antes de cocinar. El resultado es una piel dorada y llena de sabor.
+
+📦 Envase 100g · Hecho a mano · Producto artesanal · Traslasierra 🌐 rojomalbec.com.ar
 
 Un secreto guardado en las altas montañas del Cáucaso. Los habitantes de Svaneti crearon esta sal con especias salvajes mediante fermentación húmeda de 21 días, entre picos de nieve eterna y fortalezas medievales.
 
@@ -136,6 +298,36 @@ La joya de la cocina iraní. Un blend que cuenta historias de palacios de mármo
 ---
 
 ## Ajo a las Hierbas Gourmet 🧄
+
+🧄 Blend de Ajo & Hierbas | Perfil Provence
+
+Más que un condimento, un perfume para tu cocina.
+
+Olvídate del ajo en polvo industrial. Este es un blend de autor diseñado con 14 ingredientes seleccionados para crear capas de sabor. Una base de ajo y cebolla potentes, equilibrados con notas cítricas y un bouquet de hierbas finas.
+
+✨ La Diferencia Gourmet:
+
+Lo que lo hace único es su complejidad aromática:
+
+Notas Florales y Anisadas: El toque sutil de Lavanda, Estragón e Hinojo eleva el perfil, aportando frescura y elegancia.
+
+Textura Real: Las hierbas (Romero, Tomillo, Mejorana) no están pulverizadas; se ven y se sienten.
+
+Dorado Perfecto: Gracias a una pizca de Azúcar Mascabo y Limón, este blend carameliza suavemente al cocinar, creando una costra deliciosa.
+
+🍽️ Ideal para:
+
+Mantecas Aromatizadas: Mézclalo con manteca pomada para untar en pan de campo o derretir sobre un bife.
+
+Panadería: El secreto para focaccias, panes de ajo y grisines de otro nivel.
+
+Carnes Blancas: Frota pollo, cerdo o pescado antes de hornear.
+
+👨‍🍳 Tip de Cocinero:
+
+Hidrátalo con un poco de aceite de oliva unos minutos antes de usar. Esto despierta el limón y las hierbas secas, recuperando la frescura original del "jardín" antes de cocinar.
+
+📦 Envase 50g · Hecho a mano · Producto artesanal · Traslasierra 🌐 rojomalbec.com.ar
 
 El ajo, planta protectora venerada desde el antiguo Egipto, se combina con las hierbas de la Provenza francesa. Una mezcla cultivada para elevar lo cotidiano a lo sublime.
 
@@ -185,6 +377,18 @@ Nuestra esencia pampina convertida en polvo mágico. Tomate, morrón y cebolla: 
 
 ## Curry Colombo 🥥
 
+🌴 CURRY COLOMBO — Las Antillas Francesas Sabores del Caribe · Rojo Malbec
+
+¿Qué es el Colombo? Es EL curry del Caribe francés. Nació en Martinica y Guadalupe, traído por inmigrantes de Sri Lanka, y se convirtió en el plato nacional de las Antillas. No es un curry indio: es más fresco, más tropical, con coco y cítricos.
+
+Nuestro blend artesanal lleva coriandro, cúrcuma, sumac, arroz tostado, leche de coco, comino, ajo, mostaza, fenogreco, limón marroquí, pimienta blanca, ají y clavo de olor. Cremoso, tostado y equilibrado.
+
+Modo de uso: Disolver en leche de coco o caldos para crear salsas caribeñas vibrantes.
+
+Ideal para: Pollo, cabra, pescados, langostinos, vegetales tropicales.
+
+📦 Envase 50g · Hecho a mano · Producto artesanal · Traslasierra 🌐 rojomalbec.com.ar
+
 Hijo de la diáspora india en las Antillas francesas (Guadalupe y Martinica). La cúrcuma y el cilantro se adaptaron al clima tropical, creando un puente aromático entre el subcontinente indio y el Caribe.
 
 **Ingredientes:** Coriandro, cúrcuma, sumac, arroz parboilizado, leche de coco, comino, ajo, mostaza amarilla, fenogreco, limón marroquí deshidratado, pimienta blanca, ají, clavo de olor
@@ -232,6 +436,28 @@ Conocida como 'el queso de los pobres' en Sicilia. Pan tostado con aceite y ajo 
 ---
 
 ## Nanami Tōgarashi 🇯🇵
+
+🌶️ Nanami Tōgarashi | Condimento Japonés de Autor - Rojo Malbec 🇯🇵
+
+¡Llevá la auténtica experiencia de la cocina japonesa a tu mesa!. Este blend tradicional es el secreto milenario para darle un toque intenso, aromático y picante a tus comidas.
+
+🍜 ¿Cómo usarlo? Es súper versátil:
+
+Sopas y fideos: El toque maestro para espolvorear sobre tu Ramen.
+
+Pescados y Carnes: Realza sushi, pescados, pollo, cerdo y ternera a la parrilla.
+
+Arroces y Verduras: Perfecto para woks, donburis, ensaladas y vegetales asados.
+
+Snacks: ¡Dale un giro único a tus pochoclos, frutos secos o chips!
+
+🌿 Sabor y bienestar en un solo frasco: Además de ser delicioso, sus ingredientes naturales (como el jengibre, el sésamo y la mandarina) aportan antioxidantes y ayudan a estimular la digestión.
+
+⚠️ Tip de uso: Agregalo al final de tus preparaciones. ¡Usalo con moderación para disfrutar su toque picante sin tapar el sabor de tus platos!
+
+👇 ¡Sumalo a tu pedido y descubrí el verdadero sabor de Japón!
+
+📦 Envase 50g · Hecho a mano · Producto artesanal · Traslasierra 🌐 rojomalbec.com.ar
 
 Los 'siete sabores' de la antigua Edo (Tokio). Una mezcla medicinal que se convirtió en condimento omnipresente, equilibrando el fuego del chile con la frescura del alga y la mandarina.
 
@@ -293,6 +519,32 @@ El fuego de los hornos de barro de Delhi y Punjab. Una mezcla diseñada para pen
 
 ## Za'atar 🫓
 
+🌿 Za'atar  | Blend Auténtico & Vibrante
+
+¿A qué sabe un atardecer en el Mediterráneo? Este no es un condimento más. Es el alma de Medio Oriente, un blend tradicional y equilibrado donde la acidez cítrica profunda se encuentra con el tostado cálido y la frescura de las hierbas salvajes.
+
+✨ El Secreto del Blend: Combinamos la textura de la sal marina con una selección meticulosa de botánicos para lograr un perfil vibrante y aromático:
+
+🔴 Sumac (Zumaque): El corazón absoluto del blend. Aporta una acidez frutal intensa, terrosa y un color rojizo inconfundible.
+
+🌾 Sésamo Blanco Tostado: Brinda un perfil almendrado, cálido y el "crunch" esencial en cada bocado.
+
+🌿 Trilogía de Hierbas (Tomillo, Mejorana y Orégano): Notas terrosas, mentoladas y frescas que abren el paladar y aportan el carácter verde del levante.
+
+🌱 Un toque de Ajwain: El secreto de autor. Una nota herbácea con un carácter ligeramente picante que eleva la complejidad del tomillo.
+
+🍽️ Usalo para elevar:
+
+Clásicos de Medio Oriente: La experiencia definitiva: mezclalo con un buen aceite de oliva en un cuenco de barro para untar pan pita caliente. Espolvorealo sobre Hummus, Labneh o Babaganoush.
+
+Fuego y Horno: Ideal para marinar pollo, frotar sobre pescados blancos antes de asar, o realzar coliflor y zanahorias al horno.
+
+Toque Fresco: Espolvorealo sobre tomates reliquia con oliva, ensaladas de pepino, palta o queso feta.
+
+👨‍🍳 Tip de Chef: Si lo vas a usar como "dip" para el pan pita, hidratá el Za'atar con abundante aceite de oliva de buena calidad y dejalo reposar unos 10 a 15 minutos. Esto permite que el zumaque y las hierbas liberen todos sus aceites esenciales en el medio graso, logrando una pasta oscura, untuosa y llena de sabor.
+
+📦 Envase 50g · Hecho a mano · Producto artesanal · Traslasierra 🌐 rojomalbec.com.ar
+
 Más que un condimento, es un símbolo de resistencia y arraigo en el Medio Oriente. El tomillo silvestre y el sumac cuentan historias de olivos milenarios bajo el sol del Levante.
 
 **Ingredientes:** Sumac, semillas de sésamo blanco, tomillo, mejorana, orégano, sal marina
@@ -316,6 +568,18 @@ La evolución moderna de la mezcla cárnica. Inspirado en los 'delicatessen' de 
 ---
 
 ## Sloopy Joe 🍔
+
+🍔 SLOPPY JOE — Salsa Deshidratada Estilo USA Tradicional Americano · Rojo Malbec
+
+¿Qué es un Sloppy Joe? Es EL sándwich americano por excelencia: carne molida en una salsa dulce, ahumada y especiada, servida en un pan brioche. "Sloppy" porque se desborda gloriosamente. Nació en los años '30 en USA y es ícono de la cocina casera americana.
+
+Nuestro blend artesanal tiene todo para prepararlo: pimentón, cebolla, pimiento verde, mascabo, mostaza, ajo, pimentón ahumado, cayena, apio, clavo y un toque cítrico. Perfil dulce, tomate y ahumado.
+
+Modo de uso: Dorar carne molida en un sartén con un poco de aceite de oliva, incorporar dos cucharadas de Sloppy Joe y mezclar, agregar caldo o agua hasta reducir.... tostar pan brioche o pan de hamburguesa incorporar el preparado con una feta de queso cheddar o cual te guste.....listo
+
+Ideal para: Sándwiches, hot dogs, carnes desmenuzadas, hamburguesas, nachos.
+
+📦 Envase 50g · Hecho a mano · Producto artesanal · Traslasierra 🌐 rojomalbec.com.ar
 
 El clásico americano hecho polvo mágico. Una "salsa deshidratada" donde la harina de arroz garantiza que la salsa no se separe del pan, elevando el producto a experiencia gourmet.
 
@@ -379,6 +643,18 @@ El blend seco que se comporta como el tradicional húmedo. Sin pimentón, gana e
 ---
 
 ## Vital Caldo 🍵
+
+🍄 VITAL CALDO — Base Umami Sin Sodio Línea Vital · 0% Sodio · Rojo Malbec
+
+¿Cansado de los caldos industriales llenos de sodio y químicos? Vital Caldo es un potenciador de sabor 100% natural y 0% sodio. Su secreto: levadura nutricional, hongos shiitake y hongos de pino que aportan umami real — ese sabor profundo  que hace que todo sepa mejor.
+
+Ingredientes: Levadura nutricional, hongos shiitake, hongos de pino, cebolla, ajo, semillas de apio y perejil. Nada más. Sin sal, sin conservantes, sin aditivos.
+
+Modo de uso: Espolvorear sobre vegetales al vapor, agregar a guisos, sopas, arroces o fondos. El calor activa el aroma del hongo de pino y los aceites del apio.
+
+Ideal para: Cocciones largas, fondos, guisos de legumbres, arroces, salteados de vegetales, platos con leche de coco.
+
+📦 Envase 50g · 100% natural · 0% sodio · Producto artesanal · Traslasierra 🌐 rojomalbec.com.ar
 
 El poder saborizante del umami sin una pizca de sodio. La sinergia de hongos shiitake y hongos de pino genera un poder saborizante +40% superior a un caldo tradicional.
 
@@ -484,6 +760,18 @@ Perfil: Tierra – sal – humo. Inspirada en la cocina francesa clásica y la t
 ---
 
 ## Pimienta Roja y Pimienta Larga ❤️
+
+🖤 PIMIENTA ROJA & PIMIENTA LARGA — Blend Exótico de Autor Edición Pimientas · Rojo Malbec
+
+Este no es un molinillo de pimienta común. Es un blend de autor que combina pimienta roja verdadera (la baya madura del Piper nigrum), pimienta larga (la especia ancestral que usaban los romanos antes de conocer la pimienta negra), cáscara de mandarina deshidratada, nibs de cacao, pimienta negra y pimienta de Jamaica.
+
+El resultado: un perfil complejo de calor frutal, cítricos, notas de chocolate amargo y una calidez envolvente. No es picante — es profundo.
+
+Sugerencias: Bondiola laqueada, pollo dorado, calabaza, batata, reducciones de vino o aceto, repostería con chocolate amargo, trufas y espresso.
+
+Tip del blender: Moler en el momento sobre el plato terminado. El calor residual libera los aceites esenciales de la mandarina y el cacao.
+
+📦 Envase 40g · Hecho a mano · Producto artesanal · Traslasierra 🌐 rojomalbec.com.ar
 
 Un encuentro entre el fuego suave de la pimienta roja y la dulzura especiada de la pimienta larga, acentuado con notas frutales y florales.
 
@@ -611,3 +899,19 @@ El carácter de la tierra con el brillo del sol. Un té de guarda con alma de vi
 *Rojo Malbec - Sales & Blends Ancestrales*
 *Los Hornillos, Traslasierra, Córdoba, Argentina*
 *www.rojomalbec.com.ar*
+
+---
+
+## Glühwein 🍷
+
+🍷 GLÜHWEIN — Blend para Vino Caliente Especiado · Edición Blends de Autor · Rojo Malbec
+
+El espíritu de los mercados de invierno europeos en una taza. Un blend reconfortante y festivo que combina la calidez rústica de la canela y el clavo de olor, la elegancia del anís estrellado, toques de cardamomo y la frescura dulce de cáscaras de cítricos deshidratadas.
+
+El resultado: un perfil profundamente aromático, dulce y especiado. Llena el ambiente con un perfume mágico y envuelve el paladar con un calor reconfortante.
+
+Sugerencias: Ideal para preparar el tradicional vino caliente (¡un buen Malbec joven es perfecto!). También es excelente para tus peras al vino , infusionar sidra caliente, jugo de manzana especiado, o para darle un toque invernal a mermeladas y almíbares.
+
+Tip del blender: Calentar el vino con el blend a fuego muy lento (idealmente a 70°C) y apagar antes de que rompa el hervor. Dejar reposar 15 minutos. Si hierve, el alcohol se evapora y las especias pueden amargar la bebida. Paras tus Peras al Vino agrega azucar al vinoa tu gusto.
+
+📦 Envase 50g · Hecho a mano · Producto artesanal · Traslasierra 🌐 rojomalbec.com.ar
