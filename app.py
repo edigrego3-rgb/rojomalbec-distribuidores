@@ -94,7 +94,7 @@ def buscar_imagenes(nombre_producto):
 
 
 # --- LAYOUT PRINCIPAL ---
-col_logo, col_titulo = st.columns([1, 4])
+col_logo, col_titulo, col_web = st.columns([1, 3, 1.5])
 with col_logo:
     st.image(os.path.join(current_dir, "logo.png"), width=150)
 with col_titulo:
@@ -103,6 +103,12 @@ with col_titulo:
             <h1 style='margin:0; font-size:2rem; color:#d4af37;'>Rojo Malbec</h1>
             <span style='color:#a0a0b0; font-size:1.1rem; display:block;'>Portal Mayorista B2B</span>
             <span style='color:#888888; font-size:0.9rem; font-style:italic;'>Sales Marinas, Blends de Especias y Tés.<br>Ruta 14 S/N Los Hornillos, Córdoba</span>
+        </div>
+    ''', unsafe_allow_html=True)
+with col_web:
+    st.markdown('''
+        <div style='padding-top: 25px; text-align: right;'>
+            <a href='https://rojomalbec.com.ar' target='_blank' style='color:#d4af37; text-decoration:none; font-size:1rem; border:1px solid #d4af37; padding:8px 16px; border-radius:8px;'>🌐 Visitá nuestra web</a>
         </div>
     ''', unsafe_allow_html=True)
 
