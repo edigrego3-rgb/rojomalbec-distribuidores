@@ -66,7 +66,7 @@ Frituras de Mar: Rabas, cornalitos o el clásico Fish & Chips. La acidez corta l
 
 Está diseñada para acompañar tu cerveza favorita. Una pinta fría, una buena picada y el toque mágico de Rojo Malbec.
 
-**🌿 Ingredientes:** Sal Marina, Vinagre de Alcohol, Cebolla en Escama, Ajo Granulado, Pimienta Blanca en Grano
+**🌿 Ingredientes:** Sal Marina, Vinagre de Alcohol, Cebolla en Escama, Ajo Granulado, Pimienta Larga, Pimienta Blanca en Grano
 
 📦 Envase 100g · Hecho a mano · Producto artesanal · Traslasierra 🌐 rojomalbec.com.ar
 ---
